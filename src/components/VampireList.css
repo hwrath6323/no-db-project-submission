@@ -1,0 +1,9 @@
+.individual {
+    list-style: none;
+    border: solid 3px darkred;
+}
+
+li {
+    margin: 20px;
+    padding-bottom: 20px;
+}
