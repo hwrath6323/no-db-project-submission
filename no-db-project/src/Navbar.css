@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    justify-content: center;
+    font-family: cursive;
+    background-color: maroon;
+    color: white;
+    padding: 10px;
+    margin: 0px;
+    width: 100%;
+  }
+  
+.container > .child {
+    padding: 0px;
+    margin: 10px;
+  }
+  
+button {
+    margin: 0px 7px;
+  }

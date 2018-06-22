@@ -1,0 +1,83 @@
+.App {
+  text-align: center;
+  background-color: black;
+}
+
+
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  font-family: cursive;
+  background-color: maroon;
+  color: white;
+  padding: 10px;
+  margin: 0px;
+  width: 100%;
+}
+
+.navbar > .child {
+  padding: 0px;
+  margin: 10px;
+}
+
+button {
+  margin: 0px 7px;
+}
+
+.content-body {
+  display: grid;
+  background-color: rgb(80, 17, 17);
+}
+
+.content-body > div {
+  border: rgb(94, 9, 9) solid 3px;
+  font-family: sans-serif;
+  margin: 50px 0px 20px 20px;
+  padding: 40px;
+  background-color: black;
+  color: white;
+  display: grid;
+  
+}
+
+
+.featured {
+  border: rgb(94, 9, 9) solid 3px;
+  font-family: cursive;
+  margin: 50px 0px 20px 20px;
+  padding: 40px;
+  background-color: black;
+  color: white;
+  display: grid;
+}
+
+
+#scrawl {
+  padding: 20px;
+  margin: 30px;
+}
+
+
+.footer-container {
+  color: white;
+}
+
+
+button {
+  background-color: rgb(110, 0, 0);
+  color: white;
+  font-size: 18;
+}
+
+.search-button {
+  width: 70px;
+  height: 20px;
+}
+
+.add-vamp {
+  width: 150px;
+  height: 35px;
+  margin: 0px 0px 30px 30px;
+  border: solid darkred;
+}
